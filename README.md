@@ -1,5 +1,7 @@
 # Deep Learning-based segmentation of kidney histologic primitives on multiple stains
 
+Contributors: Catherine Jayapandian, Yijiang Chen
+
 In this work, we discuss how to train a U-Net based deep learning neural network, using PyTorch for segmentation of structurally normal histologic primitives from renal biopsies. 
 
 The deep learning pipeline consists of 4 components:
@@ -19,3 +21,4 @@ Please see attached source code and data samples that have been generated as par
 Multiple DL networks has been developed using biopsy images on multiple stains such as H&E, PAS, Trichrome and Silver. 
 
 
+Useful Reference: http://www.andrewjanowczyk.com/pytorch-unet-for-digital-pathology-segmentation/
