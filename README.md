@@ -18,4 +18,4 @@ Please see attached source code and data samples that have been generated as par
 5) Arteries/Arterioles
 6) Peritubular Capillaries
 
-Multiple DL networks has been developed using biopsy images on multiple stains such as H&E, PAS, Trichrome and Silver. 
+Multiple DL networks have been developed using biopsy images on multiple stains such as H&E, PAS, Trichrome and Silver. 
