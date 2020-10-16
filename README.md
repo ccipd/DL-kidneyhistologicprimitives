@@ -20,4 +20,5 @@ Please see attached source code and data samples that have been generated as par
 
 Multiple DL networks have been developed using biopsy images on multiple stains such as H&E, PAS, Trichrome and Silver. 
 
-[access](https://github.com/ccipd/GTannotations_renalhistology)
+References:
+Jayapandian, CP, Chen, Y, Janowczyk, AR, Palmer, MB, Cassol, CA, Sekulic, M, Hodgin, JB, Zee, J, Hewitt, SM, O’Toole, J, Toro, P, Sedor, JR, Barisoni, L, Madabhushi, A, “Development and evaluation of deep learning-based segmentation of histologic structures in the kidney cortex with multiple histologic stains”, Kidney Int. 2020 Aug 21:S0085-2538(20)30962-5. doi: 10.1016/j.kint.2020.07.044. Online ahead of print. (PMID: 32835732). [data access](https://github.com/ccipd/DL-kidneyhistologicprimitives-data)
