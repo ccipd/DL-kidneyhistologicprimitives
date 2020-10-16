@@ -22,4 +22,4 @@ Multiple DL networks have been developed using biopsy images on multiple stains 
 
 References:
 
-Jayapandian, CP, Chen, Y, Janowczyk, AR, Palmer, MB, Cassol, CA, Sekulic, M, Hodgin, JB, Zee, J, Hewitt, SM, O’Toole, J, Toro, P, Sedor, JR, Barisoni, L, Madabhushi, A, “Development and evaluation of deep learning-based segmentation of histologic structures in the kidney cortex with multiple histologic stains”, Kidney Int. 2020 PMID: [32835732](https://pubmed.ncbi.nlm.nih.gov/32835732/). [(data)](https://github.com/ccipd/DL-kidneyhistologicprimitives-data)
+Jayapandian, CP, Chen, Y, Janowczyk, AR, Palmer, MB, Cassol, CA, Sekulic, M, Hodgin, JB, Zee, J, Hewitt, SM, O’Toole, J, Toro, P, Sedor, JR, Barisoni, L, Madabhushi, A, “Development and evaluation of deep learning-based segmentation of histologic structures in the kidney cortex with multiple histologic stains”, Kidney Int. 2020 PMID: [32835732](https://pubmed.ncbi.nlm.nih.gov/32835732/). 
