@@ -24,5 +24,5 @@ References:
 
 Jayapandian, CP, Chen, Y, Janowczyk, AR, Palmer, MB, Cassol, CA, Sekulic, M, Hodgin, JB, Zee, J, Hewitt, SM, O’Toole, J, Toro, P, Sedor, JR, Barisoni, L, Madabhushi, A, “Development and evaluation of deep learning-based segmentation of histologic structures in the kidney cortex with multiple histologic stains”, Kidney Int. 2020 PMID: [32835732](https://pubmed.ncbi.nlm.nih.gov/32835732/). 
 
-Online supplemental material can be accessed [here](http://haeckel.case.edu/data/KI_data).
+Online supplemental material can be accessed [here](http://haeckel.case.edu/data/KI_data
 ). 
